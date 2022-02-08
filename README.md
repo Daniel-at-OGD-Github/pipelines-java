@@ -1,3 +1,4 @@
+[![Build Status](https://ogd.visualstudio.com/IaaS/_apis/build/status/Daniel-at-OGD-Github.pipelines-java?branchName=master)](https://ogd.visualstudio.com/IaaS/_build/latest?definitionId=2645&branchName=master)
 
 # Contributing
 
