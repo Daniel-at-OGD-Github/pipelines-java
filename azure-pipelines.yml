@@ -20,13 +20,3 @@ steps:
     publishJUnitResults: true
     testResultsFiles: '**/surefire-reports/TEST-*.xml'
     goals: 'package'
-
-variables:
-  name: Daniel
-
-jobs:
-
-- job: helloworld
-  steps:
-
-    - script: echo "Hello, $(name)"
