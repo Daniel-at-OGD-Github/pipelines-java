@@ -13,6 +13,8 @@ variables:
   name: Daniel
 
 steps:
+
+- checkout: git://Demo
 - task: Maven@3
   inputs:
     mavenPomFile: 'pom.xml'
